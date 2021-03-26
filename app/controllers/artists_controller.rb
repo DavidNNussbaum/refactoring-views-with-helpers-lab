@@ -1,12 +1,12 @@
 class ArtistsController < ApplicationController
   
-  def artist_name(:name)
-    artist.name
-  end
+  # def artist_name(:name)
+  #   artist.name
+  # end
 
-  def artist_name=(:name)
-    artist.name
-  end
+  # def artist_name=(:name)
+  #   artist.name
+  # end
   
   def index
   end
